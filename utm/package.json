@@ -1,0 +1,23 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "Testes automatizados com nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "nightwatch"
+  },
+  "keywords": [
+    "tests",
+    "automacao",
+    "webdriver",
+    "chromedriver",
+    "nodejs",
+    "nightwatch"
+  ],
+  "author": "Alexandre Nunes",
+  "license": "ISC",
+  "devDependencies": {
+    "chromedriver": "^78.0.1",
+    "nightwatch": "^1.2.4"
+  }
+}
