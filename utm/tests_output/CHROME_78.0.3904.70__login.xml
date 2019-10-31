@@ -1,13 +1,26 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <testsuites errors="0"
             failures="0"
-            tests="1">
+            tests="2">
 
   <testsuite name="login"
     errors="0" failures="0" hostname="" id="" package="login" skipped="0"
-    tests="1" time="11.48" timestamp="">
+    tests="2" time="49.95" timestamp="">
   
-    <testcase name="login com sucesso" classname="login" time="11.48" assertions="3">
+    <testcase name="valdar utm=email-nc na campanha abandoned_cart com sucesso" classname="login" time="28.10" assertions="4">
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="valdar utm=email-nc na campanha abandoned_session com sucesso" classname="login" time="21.84" assertions="4">
+
+    
 
     
 
