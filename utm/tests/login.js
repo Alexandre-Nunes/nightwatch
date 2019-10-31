@@ -23,13 +23,13 @@ module.exports = {
             .useCss()
             .click('@selectDummy')
             .click('@renderButton')
-            .pause(3000)
+            .pause(5000)
             .waitForElementVisible('@form', 3000)
-            //.url('https://br-store.acer.com/t/20/?utm_source=ShopBack&utm_medium=ShopTarget_abandonodecarrinho&utm_campaign=email-nc')
-            //.assert.urlContains('@assertnc')
-            //.saveScreenshot('@screenschot')
+             browser.url('https://br-store.acer.com/t/20/?utm_source=ShopBack&utm_medium=ShopTarget_abandonodecarrinho&utm_campaign=email-nc')
+            .assert.urlContains('email-nc')
+            .saveScreenshot('@screenschot')
 
-            //teste de git
+            
     }
 }
 

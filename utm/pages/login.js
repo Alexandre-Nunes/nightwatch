@@ -14,9 +14,7 @@ module.exports = {
         selectDummy: '#use_dummy_recs',
         renderButton: '.btn-primary',
         form: '#theSubject',
-       // url2: 'https://br-store.acer.com/t/20/?utm_source=ShopBack&utm_medium=ShopTarget_abandonodecarrinho&utm_campaign=email-nc',
-       // assertnc: 'email-nc',
-       // screenschot: 'tests_output/client.png'
+        screenschot: 'tests_output/client.png'
 
     }
 }
