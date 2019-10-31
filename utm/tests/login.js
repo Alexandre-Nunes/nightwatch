@@ -28,6 +28,8 @@ module.exports = {
             //.url('https://br-store.acer.com/t/20/?utm_source=ShopBack&utm_medium=ShopTarget_abandonodecarrinho&utm_campaign=email-nc')
             //.assert.urlContains('@assertnc')
             //.saveScreenshot('@screenschot')
+
+            //teste de git
     }
 }
 
